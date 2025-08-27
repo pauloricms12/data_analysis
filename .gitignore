@@ -1,0 +1,31 @@
+# Ambientes Virtuais
+# Ignora a pasta do ambiente virtual, que pode ter vários nomes
+.venv/
+venv/
+env/
+.env/
+
+# Pasta de arquivos especificada pelo usuário
+arquivos/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+*.log
+*.pot
+*.pyc
+
+*.ipynb
